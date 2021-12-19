@@ -1,6 +1,6 @@
 # Predict_Doctors
 
-* This project was done by medical college, Seoul National University, especially Prof Yun-chul Hong. All rights reserved by him.
+* This project was done by medical college, Seoul National University, especially Prof Yun-chul Hong. All rights reserved.
 * To be ready for the next 60 years, we need to predict demand and supply by various scinarios. 
 * The scinarios are form the birth rate simulation done by Korean govornment. 
 * I used the past medical demand per capita with different age to predict the demand.
